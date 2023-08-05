@@ -2,8 +2,7 @@
 
 ## Introduction
 
-The Customer Profiling with RFM Index project aims to conduct a customer profiling study based on the analysis of the RFM (Recency, Frequency, Monetary) index using a dataset containing information on transactions from an online retail company based in the United Kingdom, spanning the period between 01/12/2010 and 09/12/2011.
-The primary objective of this project is to identify customer habits towards the company in order to develop targeted and personalized advertising.
+The Customer Profiling with RFM Index project aims to conduct a customer profiling study based on the analysis of the RFM (Recency, Frequency, Monetary) index using a dataset containing information on transactions from an online retail company based in the United Kingdom, spanning the period between 01/12/2010 and 09/12/2011. The primary objective of this project is to identify customer habits towards the company in order to develop targeted and personalized advertising.
 
 ## RFM Index
 
