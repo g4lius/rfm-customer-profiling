@@ -22,11 +22,10 @@ The main objective of the project is to utilize the RFM index to identify custom
 
 1. Clone this repository to your computer using the command:
 
-git clone <repository_URL>
+git clone https://github.com/g4lius/rfm-customer-profiling.git
 
 2. Install the necessary dependencies required for running the project.
 
 3. Execute the customer profiling script using Python or follow any specific instructions provided in the code.
 
 4. Analyze the obtained results and utilize them to inform your marketing and advertising strategies.
-
