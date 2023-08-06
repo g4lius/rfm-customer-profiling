@@ -32,3 +32,4 @@ The main objective of the project is to utilize the RFM index to identify custom
 
 
 Modifica di prova Gabriele Zimmerhofer 4
+modifica settecase
