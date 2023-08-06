@@ -29,7 +29,3 @@ The main objective of the project is to utilize the RFM index to identify custom
 3. Execute the customer profiling script using Python or follow any specific instructions provided in the code.
 
 4. Analyze the obtained results and utilize them to inform your marketing and advertising strategies.
-
-
-Modifica di prova Gabriele Zimmerhofer 4
-modifica settecase
